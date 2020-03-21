@@ -7,6 +7,11 @@ from collections import Counter
 # KDTree (100样例, k=10)
 # spent time: 169s
 # acc: 0.97
+"""
+ KDTree 如果对于特征是二进制特征的话，
+ 很明显KDTree会退化为线性结构，就没意义了
+ 比如ORB特征Fast检测，BRIEF转换成二进制特征向量
+"""
 
 def loadData(filaName):
     data = pd.read_csv(filaName, header=None)

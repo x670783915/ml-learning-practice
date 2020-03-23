@@ -4,6 +4,7 @@ import time
 import heapq
 from collections import Counter
 
+# Mnist
 # KDTree (100样例, k=10)
 # spent time: 169s
 # acc: 0.97

@@ -3,6 +3,7 @@ import numpy as np
 import time
 from collections import Counter
 
+# Mnist
 # 计算太慢了, 程序测试能够运行
 # ID3 acc: , cost time:
 # C4.5 acc: , cost time:

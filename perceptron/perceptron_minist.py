@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import time
 
+# Mnist
 # spend time: 312s
 # acc: 0.7904
 

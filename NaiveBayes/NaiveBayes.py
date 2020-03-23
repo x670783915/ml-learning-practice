@@ -3,6 +3,7 @@ import pandas as pd
 import time
 from collections import Counter
 
+# Mnist
 # spent time: 372s
 # acc: 0.60
 

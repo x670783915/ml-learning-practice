@@ -3,6 +3,7 @@ import pandas as pd
 import time
 from collections import Counter
 
+# Mnist
 # KNN (100样例, k=20)
 # spend time: 419s
 # acc: 0.969

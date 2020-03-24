@@ -4,6 +4,8 @@ this project is create for me to practice code of ml.
 
 if you think it may help you, just star, thanks!
 
+#### Reference
+https://github.com/watermelon-lee/machine-learning-algorithms-implemented-by-python
 
 #### implementations
 - [x] Perceptron

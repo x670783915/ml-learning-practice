@@ -15,4 +15,7 @@ https://github.com/watermelon-lee/machine-learning-algorithms-implemented-by-pyt
 - [x] Logistic Regression
 - [x] SVM with SMO
 - [x] Adaboost
+- [x] GMM EM
+- [x] K-means clustering
+- [x] PCA
 - [ ] Other

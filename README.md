@@ -14,4 +14,5 @@ https://github.com/watermelon-lee/machine-learning-algorithms-implemented-by-pyt
 - [x] DecisionTree(ID3, C4.5)
 - [x] Logistic Regression
 - [x] SVM with SMO
+- [x] Adaboost
 - [ ] Other
